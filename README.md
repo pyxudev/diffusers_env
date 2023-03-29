@@ -6,7 +6,7 @@ Automatically create environment for diffusers
 - pip
 
 ## For Windows
-Run cmd file, follow the questions to create the environment.<br>
+Run cmd file `diffusers_for_win.cmd` with double click, follow the guidances to create the environment.<br>
 
 ## Usage
 If you see `Done`, that means the environment is ready, otherwise check your environment:<br>
